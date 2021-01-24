@@ -8,5 +8,4 @@ I'm Nekå; a computer development student; i'm not very strong, but I learn quic
 
 
 
-
-[<img src="https://snp-psi.vercel.app/api/spotify-playing" alt="" width="350" />](https://open.spotify.com/user/nek%c3%a5)
+[![Spotify](https://nekall.vercel.app/api/spotify)](https://open.spotify.com/user/nek%c3%a5)
