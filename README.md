@@ -19,3 +19,5 @@ Hey, I'm Nekå !
 -->
 - 😄 Pronouns: He/Him
 <img src="https://www.codewars.com/users/Nek%C3%A5/badges/small" alt="Code wars rank">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekall&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
