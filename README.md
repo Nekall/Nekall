@@ -12,6 +12,12 @@
     Hey, I'm Nekå !
   </p>
   
+  <div>
+    <a href="https://twitter.com/36Qm7p5CGz"><img src="https://img.icons8.com/ios-filled/808080/twitter.svg"/></a>
+    <a href="https://codepen.io/LilNeka"><img src="https://img.icons8.com/ios-filled/808080/codepen.svg"/></a>
+    <a href="www.linkedin.com/in/benjamin-anezo-40b83b216"><img src="https://img.icons8.com/ios-filled/808080/linkedin.svg"/></a>
+  </div>
+  
   <p>
     I am a junior fullstack developer. Mainly focused on a javascript environment. I have the basics on Ruby & RubyOnRails.
     I'm curious and I like to have fun by developing crazy projects.
