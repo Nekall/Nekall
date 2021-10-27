@@ -32,6 +32,8 @@ Hey, I'm Nekå !
 [![Repos Badge](https://badges.pufler.dev/repos/nekall?style=flat-square&color=black&logo=github&a=0)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/nekall?style=flat-square&color=black&logo=github&a=0)](https://badges.pufler.dev)
 
+<img src="https://i.goopics.net/36gssb.gif" height="200">
+
 <details close>
 <summary>Goal 2021</summary>
 <br>
