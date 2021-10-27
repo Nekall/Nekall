@@ -20,7 +20,7 @@ Hey, I'm Nekå !
 - 😄 Pronouns: He/Him
 <img src="https://www.codewars.com/users/Nek%C3%A5/badges/small" alt="Code wars rank">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekall&layout=compact&theme=dark)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekall&layout=compact&title_color=333&text_color=777)]()
 
 [![Visits Badge](https://badges.pufler.dev/visits/nekall/nekall?style=flat-square&color=black&logo=github&a=0)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/nekall?style=flat-square&color=black&logo=github&a=0)](https://badges.pufler.dev)
