@@ -37,6 +37,5 @@ And more...
 
 <details open>
 <summary>Goal 2020</summary>
-<br>
 Covided.
 </details>
