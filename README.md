@@ -1,4 +1,9 @@
-👋🏻
+<div>
+  <img src="https://i.goopics.net/tg1tld.gif" max-width="220" height="100" alt="computing">
+  <img src="https://i.goopics.net/r1kgx8.gif" max-width="220" height="100" alt="computing">
+  <img src="https://i.goopics.net/0238eb.gif" max-width="220" height="100" alt="computing">
+  <img src="https://i.goopics.net/vsfa0d.gif" max-width="220" height="100" alt="computing">
+</div>
 
 Hey, I'm Nekå !
 
@@ -22,11 +27,12 @@ Hey, I'm Nekå !
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekall&layout=compact&title_color=333&text_color=777)]()
 
+
+
 [![Visits Badge](https://badges.pufler.dev/visits/nekall/nekall?style=flat-square&color=black&logo=github&a=0)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/nekall?style=flat-square&color=black&logo=github&a=0)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/nekall?style=flat-square&color=black&logo=github&a=0)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/nekall?style=flat-square&color=black&logo=github&a=0)](https://badges.pufler.dev)
-
 
 <details close>
 <summary>Goal 2021</summary>
