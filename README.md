@@ -21,7 +21,6 @@ Hey, I'm Nekå !
 <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/ruby.png" style="max-width:100%;" height="30">
 <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/ror.png" style="max-width:100%;" height="30">
 -->
-- 😄 Pronouns: He/Him
 <img src="https://www.codewars.com/users/Nek%C3%A5/badges/small" alt="Code wars rank">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekall&layout=compact&title_color=333&text_color=777)]()
