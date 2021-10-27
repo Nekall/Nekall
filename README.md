@@ -29,6 +29,8 @@
 
 <img src="https://i.goopics.net/36gssb.gif" height="200">
 
+**Blog ~ work in progress**
+
 <details close>
 <summary>Goal 2021</summary>
 <br>
