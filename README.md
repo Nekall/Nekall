@@ -7,7 +7,6 @@
 
 Hey, I'm Nekå !
 
-- 👨‍🎓 <a href="https://www.thehackingproject.org/">TheHackingProject</a>
 <!--
 <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/profile-photo.png" style="max-width:100%;" height="50">
 
