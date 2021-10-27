@@ -28,14 +28,15 @@ Hey, I'm Nekå !
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/nekall?style=flat-square&color=black&logo=github&a=0)](https://badges.pufler.dev)
 
 
-<details open>
+<details close>
 <summary>Goal 2021</summary>
 <br>
 Become a developer.
 And more...
 </details>
 
-<details open>
+<details close>
+<br>
 <summary>Goal 2020</summary>
 Covided.
 </details>
