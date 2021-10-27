@@ -11,13 +11,9 @@
   <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/html.png" style="max-width:100%;" height="30">
   <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/css.png" style="max-width:100%;" height="30">
   <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/npm.png" style="max-width:100%;" height="30">
-</p>
-<p> 
   <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/heroku.png" style="max-width:100%;" height="30">
   <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/react.png" style="max-width:100%;" height="30">
   <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/insomnia.png" style="max-width:100%;" height="30">
-</p>
-<p> 
   <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/javascript.png" style="max-width:100%;" height="30">
   <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/ruby.png" style="max-width:100%;" height="30">
   <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/ror.png" style="max-width:100%;" height="30">
