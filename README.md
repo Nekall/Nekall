@@ -26,6 +26,9 @@
     I'm curious and I like to have fun by developing crazy projects.
   </p>
   <p>
+    I'm self-training on Node.js 🧠
+  </p>
+  <p>
     My ambition is to create tutorials & blog articles to help the dev community.
   </p>
   <p>
