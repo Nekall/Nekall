@@ -1,10 +1,10 @@
 <div align="center">
 
   <div>
-    <img src="https://i.goopics.net/tg1tld.gif" max-width="220" height="100" alt="computing">
-    <img src="https://i.goopics.net/r1kgx8.gif" max-width="220" height="100" alt="computing">
-    <img src="https://i.goopics.net/0238eb.gif" max-width="220" height="100" alt="computing">
-    <img src="https://i.goopics.net/vsfa0d.gif" max-width="220" height="100" alt="computing">
+    <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/tg1tld.gif" max-width="220" height="100" alt="computing">
+    <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/r1kgx8.gif" max-width="220" height="100" alt="computing">
+    <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/0238eb.gif" max-width="220" height="100" alt="computing">
+    <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/vsfa0d.gif" max-width="220" height="100" alt="computing">
   </div>
   <br/>
   <br/>
@@ -62,7 +62,7 @@
   ___
 
   <p>
-    <img src="https://i.goopics.net/36gssb.gif" height="200"/>  Blog ~ work in progress
+    <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/coffe.gif" height="200"/>  Blog ~ work in progress
   </p>
 
   ***
@@ -87,3 +87,4 @@
 
 
 </div>
+<img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/chair-and-pc.PNG" alt="computer and chair">
