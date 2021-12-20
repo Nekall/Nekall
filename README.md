@@ -64,7 +64,7 @@
 
   <p>
     <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/coffe.gif" height="200"/>
-    <p><a href="https://medium.com/@nekall">Blog in progress</a></p>
+    <p><a href="https://medium.com/@nekall" target="_blank">Blog in progress</a></p>
   </p>
 
   ***
