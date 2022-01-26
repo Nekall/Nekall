@@ -34,9 +34,6 @@
   </p>
   <br/>
   <br/>
-  <p>
-    <b> ▸ I'm self-training on Node.js 🧠</b>
-  </p>
   <br/>
   <br/>
   <br/>
