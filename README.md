@@ -34,8 +34,16 @@
   </p>
   <br/>
   <br/>
+  <p>I'm currently learning:</p>
+  <p>
+    <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/strapi.png" style="max-width:100%;" height="30">
+    <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/nextjs.png" style="max-width:100%;" height="30">
+  </p>
   <br/>
-  <br/>
+
+
+  ___
+
   <br/>
   <p> 
     <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/html.png" style="max-width:100%;" height="30">
