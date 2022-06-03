@@ -38,6 +38,7 @@
   <p>
     <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/strapi.png" style="max-width:100%;" height="30">
     <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/nextjs.png" style="max-width:100%;" height="30">
+    <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/typescript.png" style="max-width:100%;" height="30">
   </p>
   <br/>
 
@@ -45,7 +46,7 @@
   ___
 
   <br/>
-  <p> 
+  <p>
     <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/html.png" style="max-width:100%;" height="30">
     <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/css.png" style="max-width:100%;" height="30">
     <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/sass.png" style="max-width:100%;" height="30">
@@ -72,21 +73,6 @@
     <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/coffe.gif" height="200"/>
     <p><a href="https://medium.com/@nekall" target="_blank">Blog in progress</a></p>
   </p>
-
-  ***
-
-  <details close>
-  <summary>Goal 2021/2022</summary>
-  <br/>
-  Become a developer.
-  And more...
-  </details>
-
-  <details close>
-  <br/>
-  <summary>Goal 2020</summary>
-  Covided.
-  </details>
 
 
   [![Visits Badge](https://badges.pufler.dev/visits/nekall/nekall?style=flat-square&color=black&logo=github&a=0)](https://badges.pufler.dev)
