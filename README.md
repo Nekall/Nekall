@@ -76,11 +76,5 @@
     <p><a href="https://medium.com/@nekall" target="_blank">Blog in progress</a></p>
   </p>
 
-
-  [![Visits Badge](https://badges.pufler.dev/visits/nekall/nekall?style=flat-square&color=black&logo=github&a=0)](https://badges.pufler.dev)
-  [![Years Badge](https://badges.pufler.dev/years/nekall?style=flat-square&color=black&logo=github&a=0)](https://badges.pufler.dev)
-  [![Repos Badge](https://badges.pufler.dev/repos/nekall?style=flat-square&color=black&logo=github&a=0)](https://badges.pufler.dev)
-
-
 </div>
 <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/chair-and-pc.PNG" alt="computer and chair">
