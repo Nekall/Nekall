@@ -23,7 +23,7 @@
   <br/>
   <br/>
   <p>
-    I am a junior fullstack developer. Mainly focused on a javascript environment. I have the basics on Ruby & RubyOnRails.
+    I am a junior fullstack developer. Mainly focused on a javascript environment. I have the basics on Ruby & RubyOnRails & PHP.
     I'm curious and I like to have fun by developing crazy projects.
   </p>
   <p>
