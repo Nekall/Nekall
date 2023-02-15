@@ -23,7 +23,7 @@
   <br/>
   <br/>
   <p>
-    I am a junior fullstack developer. Mainly focused on a javascript environment. I have the basics on Ruby & RubyOnRails & PHP.
+    I am a junior fullstack developer. Mainly focused on a javascript environment.
     I'm curious and I like to have fun by developing crazy projects.
   </p>
   <p>
@@ -34,7 +34,7 @@
   </p>
   <br/>
   <br/>
-  <p>I'm currently learning:</p>
+  <p>Skills in progress</p>
   <p>
     <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/strapi.png" style="max-width:100%;" height="30">
     <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/nextjs.png" style="max-width:100%;" height="30">
@@ -48,6 +48,7 @@
   ___
 
   <br/>
+  <p>Active skills</p>
   <p>
     <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/html.png" style="max-width:100%;" height="30">
     <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/css.png" style="max-width:100%;" height="30">
@@ -57,10 +58,16 @@
     <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/react.png" style="max-width:100%;" height="30">
     <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/insomnia.png" style="max-width:100%;" height="30">
     <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/javascript.png" style="max-width:100%;" height="30">
+  </p>
+  
+  ___
+  
+  <br />
+  <p>Old skills</p>
+  <p>
     <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/ruby.png" style="max-width:100%;" height="30">
     <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/ror.png" style="max-width:100%;" height="30">
   </p>
-
 
   <img src="https://www.codewars.com/users/Nek%C3%A5/badges/small" alt="Code wars rank"/>
 
