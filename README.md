@@ -70,8 +70,10 @@
   </p>
   ___
   
-    <img src="https://www.codewars.com/users/Nek%C3%A5/badges/small" alt="Code wars rank"/>
-
+  <br />
+  <p>
+  <img src="https://www.codewars.com/users/Nek%C3%A5/badges/small" alt="Code wars rank"/>
+  </p>
   <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekall&layout=compact&title_color=333&text_color=777)]()-->
 
   <p>
