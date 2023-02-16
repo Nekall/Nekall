@@ -10,8 +10,7 @@
   <br/>
   <br/>
   <p>
-    Hey, I'm Nekå !
-    (Benjamin Anezo)
+    Hey, I'm Neka !
   </p>
   <br/>
   <br/>
