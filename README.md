@@ -26,9 +26,6 @@
     I'm curious and I like to have fun by developing crazy projects.
   </p>
   <p>
-    My ambition is to create tutorials & blog articles to help the dev community.
-  </p>
-  <p>
     Je suis français 🥖
   </p>
   <br/>
