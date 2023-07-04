@@ -15,10 +15,10 @@
   <br/>
   <br/>
   <div>
-    <a href="https://twitter.com/36Qm7p5CGz"><img src="https://img.icons8.com/ios-filled/808080/twitter.svg"/></a>
-    <a href="https://codepen.io/LilNeka"><img src="https://img.icons8.com/ios-filled/808080/codepen.svg"/></a>
-    <a href="https://www.linkedin.com/in/benjamin-anezo/"><img src="https://img.icons8.com/ios-filled/808080/linkedin.svg"/></a>
-    <a href="https://dev.to/neka"><img height="70" src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/devdotto.svg"/></a>
+    <a href="https://dev.to/neka" target="_blank"><img height="40" src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/devdotto.svg"/></a>
+    <a href="https://twitter.com/36Qm7p5CGz" target="_blank"><img height="40" src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/twitter.svg"/></a>
+    <a href="https://codepen.io/LilNeka" target="_blank"><img height="40" src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/codepen.svg"/></a>
+    <a href="https://www.linkedin.com/in/benjamin-anezo/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/linkedin.svg"/></a>
   </div>
   <br/>
   <br/>
