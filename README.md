@@ -32,9 +32,7 @@
   <br/>
   <p>Skills in progress</p>
   <p>
-    <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/react-native.png" style="max-width:100%;" height="30">
     <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/docker.png" style="max-width:100%;" height="30">
-    <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/expo.png" style="max-width:100%;" height="30">
   </p>
   <br/>
 
@@ -44,6 +42,8 @@
   <br/>
   <p>Active skills</p>
   <p>
+    <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/react-native.png" style="max-width:100%;" height="30">
+    <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/expo.png" style="max-width:100%;" height="30">
     <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/html.png" style="max-width:100%;" height="30">
     <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/css.png" style="max-width:100%;" height="30">
     <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/sass.png" style="max-width:100%;" height="30">
