@@ -17,7 +17,7 @@
   <div>
     <a href="https://dev.to/neka" target="_blank"><img height="40" src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/devdotto.svg"/></a>
     <a href="https://codepen.io/LilNeka" target="_blank"><img height="40" src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/codepen.svg"/></a>
-    <a href="https://www.linkedin.com/in/benjamin-anezo/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/linkedin.svg"/></a>
+    <a href="https://www.linkedin.com/in/neka-anezo/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/linkedin.svg"/></a>
   </div>
   <br/>
   <br/>
