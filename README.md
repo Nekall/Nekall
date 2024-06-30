@@ -32,7 +32,7 @@
   <br/>
   <p>Skills in progress</p>
   <p>
-    <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/docker.png" style="max-width:100%;" height="30">
+    
   </p>
   <br/>
 
@@ -56,6 +56,7 @@
     <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/strapi.png" style="max-width:100%;" height="30">
     <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/nextjs.png" style="max-width:100%;" height="30">
     <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/typescript.png" style="max-width:100%;" height="30">
+    <img src="https://raw.githubusercontent.com/Nekall/Nekall/main/img/docker.png" style="max-width:100%;" height="30">
   </p>
   
   ___
